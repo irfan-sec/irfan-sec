@@ -7,12 +7,12 @@
 
 ### About Me
 
-I am a passionate and dedicated cybersecurity learner based in Mirpur, Pakistan. I am deeply interested in network security, ethical hacking, and threat intelligence. My goal is to leverage my skills to help build a more secure digital world.
+I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan, Pakistan. I am deeply interested in network security, ethical hacking, and threat intelligence. My goal is to leverage my skills to help build a more secure digital world.
 
 - 🔭 I’m currently working on ... completing the Jr. Penetration Tester path on TryHackMe.
 - 🌱 I’m currently learning ... advanced enumeration techniques and Python for security automation.
 - 👯 I’m looking to collaborate on ... open-source security tools for beginners.
-- 📫 How to reach me: [your-email@example.com] or on [LinkedIn](https://linkedin.com/in/your-url).
+- 📫 How to reach me: gbtechnicals@gmail.com or on [LinkedIn](https://linkedin.com/in/your-url).
 
 ---
 
