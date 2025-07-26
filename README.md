@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Irfan Ali 👋
 
-<!--
-**irfan-sec/irfan-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am a passionate and dedicated cybersecurity learner based in Mirpur, Pakistan. I am deeply interested in network security, ethical hacking, and threat intelligence. My goal is to leverage my skills to help build a more secure digital world.
+
+- 🔭 I’m currently working on ... completing the Jr. Penetration Tester path on TryHackMe.
+- 🌱 I’m currently learning ... advanced enumeration techniques and Python for security automation.
+- 👯 I’m looking to collaborate on ... open-source security tools for beginners.
+- 📫 How to reach me: [your-email@example.com] or on [LinkedIn](https://linkedin.com/in/your-url).
+
+---
+
+### 🔧 Technologies & Tools I'm Learning
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,nmap,metasploit,burpsuite" />
+  </a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=irfan-sec&show_icons=true&theme=dracula" alt="Irfan Ali's GitHub Stats" />
+</p>
