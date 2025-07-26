@@ -1,6 +1,6 @@
 # Hi there, I'm Irfan Ali 👋
 
-<a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/irfan-sec)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ---
@@ -12,7 +12,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 - 🔭 I’m currently working on ... completing the Jr. Penetration Tester path on TryHackMe.
 - 🌱 I’m currently learning ... advanced enumeration techniques and Python for security automation.
 - 👯 I’m looking to collaborate on ... open-source security tools for beginners.
-- 📫 How to reach me: gbtechnicals@gmail.com or on [LinkedIn](https://linkedin.com/in/your-url).
+- 📫 How to reach me: gbtechnicals@gmail.com or on [LinkedIn](https://www.linkedin.com/in/irfan-sec).
 
 ---
 
