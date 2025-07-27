@@ -19,7 +19,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 
 ### 💻 My Projects
 
-- **Cyber-Writeups:** A collection of my detailed write-ups from platforms like Hack The Box and TryHackMe. You can view it [here](hhttps://github.com/irfan-sec/Cyber-Writesups).
+- **Cyber-Writeups:** A collection of my detailed write-ups from platforms like Hack The Box and TryHackMe. You can view it [here](https://github.com/irfan-sec/Cyber-Writesups).
 
 ---
 
