@@ -12,7 +12,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 - 🔭 I’m currently working on ... completing the Jr. Penetration Tester path on TryHackMe.
 - 🌱 I’m currently learning ... advanced enumeration techniques and Python for security automation.
 - 👯 I’m looking to collaborate on ... open-source security tools for beginners.
-- 📫 How to reach me: [Email](gbtechnicals@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/irfan-sec).
+- 📫 How to reach me: gbtechnicals@gmail.com or on [LinkedIn](https://www.linkedin.com/in/irfan-sec).
 
 ---
 
