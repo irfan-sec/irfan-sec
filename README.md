@@ -21,7 +21,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 
 - **Cyber-Writeups:** A collection of my detailed write-ups from platforms like Hack The Box and TryHackMe. You can view it [here](https://github.com/irfan-sec/Cyber-Writesups).
 
-## CAREER PATH FOR CYBER SECURITY
+### CAREER PATH FOR CYBER SECURITY
  - [Waytobecomehacker](https://irfan-sec.github.io/Waytobecomehacker)
 
 ---
@@ -42,5 +42,3 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
   <img src="https://github-readme-stats.vercel.app/api?username=irfan-sec&show_icons=true&theme=dracula" alt="Irfan Ali's GitHub Stats" />
 </p>
 
-
-THANKS FOR REVIEW MY PROFILE
