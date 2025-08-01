@@ -45,8 +45,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 </p>
 
 <p>
-
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5320169" style='border:none;'></iframe>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/cyberengineer404.png" alt="Your Image Badge" />
 </p>
 
 
