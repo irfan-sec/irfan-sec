@@ -44,8 +44,5 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
   <img src="https://github-readme-stats.vercel.app/api?username=irfan-sec&show_icons=true&theme=dracula" alt="Irfan Ali's GitHub Stats" />
 </p>
 
-<p>
- <img src="https://tryhackme-badges.s3.amazonaws.com/cyberengineer404.png" alt="Your Image Badge" />
-</p>
 
 
