@@ -6,7 +6,6 @@
   </a>
 </p>
 
-<h3 align="center">A passionate and dedicated cybersecurity learner from Gilgit-Baltistan, Pakistan.</h3>
 
 ---
 
