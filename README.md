@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://github.com/irfan-sec">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Irfan+Ali" alt="Typing SVG" />
+  </a>
+</p>
 # Hi there, I'm Irfan Ali 👋
 
 <a href="https://www.linkedin.com/in/irfan-security"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
