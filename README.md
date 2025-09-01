@@ -49,8 +49,11 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 
 ### 📊 My GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=irfan-sec&show_icons=true&theme=dracula" alt="Irfan Ali's GitHub Stats" />
+</p>
+<p align="right">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamunknownsjs&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
