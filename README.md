@@ -10,17 +10,6 @@ p align="center">
 </p>
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/irfan-security" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/irfan_sec" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter/X" />
-  </a>
-</p>
-
----
-
 ### About Me
 
 I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan, Pakistan. I am deeply interested in network security, ethical hacking, and threat intelligence. My goal is to leverage my skills to help build a more secure digital world.
