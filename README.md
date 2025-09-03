@@ -1,17 +1,11 @@
 <h1 align="center">Hi there 👋, I'm</h1>
 
 ---
+### 🔗 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/irfan-security"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://x.com/irfan_sec"> <img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/> </a> </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/irfan-security" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/irfan_sec" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" height="40" alt="X" style="background:black; border-radius:8px; padding:4px;" />
-  </a>
-</p>
+
 ---
-
 ### About Me
 
 I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan, Pakistan. I am deeply interested in network security, ethical hacking, and threat intelligence. My goal is to leverage my skills to help build a more secure digital world.
