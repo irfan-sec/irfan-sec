@@ -9,11 +9,11 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/irfan-security">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/irfan-security" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/irfan_sec">
-    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  <a href="https://x.com/irfan_sec" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter/X" />
   </a>
 </p>
 
