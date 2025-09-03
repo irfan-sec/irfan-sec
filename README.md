@@ -33,6 +33,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 ### 💻 My Projects
 
 - **[Cyber-Writeups](https://github.com/irfan-sec/Cyber-Writeups):** A collection of my detailed write-ups from platforms like Hack The Box and TryHackMe.
+- **[Port Scanner](https://github.com/irfan-sec/Aura-sec):** A simple port scanner for cyber security with feature of anonymous scan.
 
 ---
 
