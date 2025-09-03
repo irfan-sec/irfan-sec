@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm</h1>
 
-p align="center">
+---
+
+<p align="center">
   <a href="https://www.linkedin.com/in/irfan-security" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
@@ -8,6 +10,7 @@ p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter/X" />
   </a>
 </p>
+
 ---
 
 ### About Me
