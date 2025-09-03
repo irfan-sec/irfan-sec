@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=09F709&center=true&vCenter=true&width=435&lines=Irfan+Ali" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=Irfan+Ali" alt="Typing SVG" />
 </p>
 
 ---
