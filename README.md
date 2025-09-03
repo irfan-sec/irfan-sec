@@ -1,11 +1,13 @@
 <h1 align="center">Hi there 👋, I'm</h1>
 
-<p align="center">
-  <a href="https://github.com/irfan-sec">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Irfan+Ali" alt="Irfan Ali Typing SVG" />
+p align="center">
+  <a href="https://www.linkedin.com/in/irfan-security" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/irfan_sec" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter/X" />
   </a>
 </p>
-
 ---
 
 <p align="center">
