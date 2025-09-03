@@ -7,10 +7,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/irfan_sec" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40" alt="Twitter/X" />
+    <img src="https://simpleicons.org/icons/x.svg" height="40" alt="X" />
   </a>
 </p>
-
 ---
 
 ### About Me
