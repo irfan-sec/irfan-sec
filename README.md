@@ -7,7 +7,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://x.com/irfan_sec" target="_blank">
-    <img src="https://simpleicons.org/icons/x.svg" height="40" alt="X" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" height="40" alt="X" style="background:black; border-radius:8px; padding:4px;" />
   </a>
 </p>
 ---
