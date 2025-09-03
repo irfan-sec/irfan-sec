@@ -48,7 +48,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,nmap,metasploit,burpsuite" alt="Skill Icons"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,Devops,nmap,metasploit,burpsuite" alt="Skill Icons"/>
   </a>
 </p>
 
