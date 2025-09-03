@@ -54,7 +54,7 @@ I am a passionate and dedicated cybersecurity learner based in Gilgit-Baltistan,
 
 ---
 
-### 📊 My GitHub Stats
+### GitHub Progress
 
 <table>
   <tr>
