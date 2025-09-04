@@ -6,7 +6,7 @@
 <!-- Animated Typing -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?color=00FF41&lines=🔐+Cybersecurity+Specialist" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=%F0%9F%94%90+Cybersecurity+Specialist%3B%F0%9F%90%A7+Linux+Enthusiast%3B%F0%9F%94%8D+Penetration+Tester%3B%F0%9F%9B%A1%EF%B8%8F+Security+Researcher%3B%F0%9F%92%80+Ethical+Hacker%3B%F0%9F%8C%90+Bug+Bounty+Hunter%3B%F0%9F%8E%AF+CTF+Player%3B%E2%9A%A1%EF%B8%8F+Python+Developer" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
