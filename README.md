@@ -156,7 +156,7 @@ OSINT            ┃ Maltego, Shodan, theHarvester, Recon-ng
 
 <div align="center">
   
-[![Cyber-Writeups](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=Cyber-Writeups&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/Cyber-Writeups)
+[![Waytobecomehacker](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=Waytobecomehacker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/Waytobecomehacker)
 [![Aura-sec](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=Aura-sec&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/Aura-sec)
 
 </div>
