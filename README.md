@@ -4,8 +4,9 @@
 </div>
 
 <!-- Animated Typing -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Specialist;🐧+Linux+Enthusiast;🔍+Penetration+Tester;🛡️+Security+Researcher;💀+Ethical+Hacker;🌐+Bug+Bounty+Hunter;🎯+CTF+Player;⚡+Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=🔐+Cybersecurity+Specialist;🐧+Linux+Enthusiast;🔍+Penetration+Tester;🛡️+Security+Researcher;💀+Ethical+Hacker;🌐+Bug+Bounty+Hunter;🎯+CTF+Player;⚡+Python+Developer&v=1" alt="Typing SVG" />
 </div>
 
 <!-- Profile Views Counter -->
