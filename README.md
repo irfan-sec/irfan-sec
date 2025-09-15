@@ -32,7 +32,7 @@
   </a>
   <a href="https://cyberlearn.systems">
     <img src="https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Website"/>
-  <a href="https://irfan-sec.vercel.app/" target="_blank">
+  <a href="https://www.irfansec.social/" target="_blank">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </a>
 </div>
