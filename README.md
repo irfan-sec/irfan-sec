@@ -206,7 +206,7 @@ graph TD
     A --> C[Advanced Python Security]
     A --> D[Red Team Tactics]
     
-    B --> E[🎯 2024 Goals]
+    B --> E[🎯 2026 Goals]
     C --> E
     D --> E
     
@@ -227,9 +227,10 @@ graph TD
 
 ### 🎯 Certification Roadmap
 - ✅ **CompTIA Security+** *(In Progress)*
-- 🎯 **OSCP** *(2024 Goal)*
-- 🎯 **CISSP** *(2025 Goal)*
-- 🎯 **CEH** *(2024 Goal)*
+- ✅ **ISC2** *(In Progress)*
+- 🎯 **OSCP** *(2026 Goal)*
+- 🎯 **CISSP** *(2027 Goal)*
+- 🎯 **CEH** *(2026 Goal)*
 
 ---
 
