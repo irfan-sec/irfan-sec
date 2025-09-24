@@ -160,7 +160,7 @@ OSINT            ┃ Maltego, Shodan, theHarvester, Recon-ng
   
 [![Waytobecomehacker](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=Waytobecomehacker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/Waytobecomehacker)
 [![Aura-sec](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=Aura-sec&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/Aura-sec)
-[![InvestiGUI](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=InvestiGUI&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/InvestiGUI)
+[![InvestiGUI](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=InvestiGUI&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)]()
 [![stegano-sec](https://github-readme-stats.vercel.app/api/pin/?username=irfan-sec&repo=stegano-sec&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&border_color=F85D7F)](https://github.com/irfan-sec/stegano-sec)
 
 </div>
