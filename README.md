@@ -243,7 +243,7 @@ graph TD
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=irfan-sec&theme=react&border_radius=10" alt="streak stats"/>
+  <img src="https://streak-stats.demolab.com/?user=irfan-sec&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 <div align="center">
