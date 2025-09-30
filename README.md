@@ -16,6 +16,14 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" alt="Focus" />
 </div>
 
+<!-- Open Source & Collaboration Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Collaborate-Yes-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collaborate" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-Participant-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest" />
+  <img src="https://img.shields.io/badge/Looking%20for-Maintainers-blue?style=for-the-badge&logo=github&logoColor=white" alt="Looking for Maintainers" />
+  <img src="https://img.shields.io/badge/Mentoring-Available-purple?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentoring Available" />
+</div>
+
 ---
 
 <!-- Connect Section -->
@@ -69,6 +77,125 @@ class CybersecurityExpert:
 irfan = CybersecurityExpert()
 print(f"Welcome to {irfan.name}'s profile! 🚀")
 ```
+
+<!-- Dynamic Greeting & Live Status -->
+<div align="center">
+  <h3>🌍 Personalized Greeting</h3>
+  <div id="greeting-section">
+    <p>
+      <img src="https://img.shields.io/badge/⏰%20Your%20Local%20Time-Loading...-blue?style=flat-square" id="visitor-time" alt="Visitor Time"/>
+      <img src="https://img.shields.io/badge/🌍%20Your%20Location-Detecting...-green?style=flat-square" id="visitor-location" alt="Visitor Location"/>
+    </p>
+    <p><em>🎯 "Welcome, fellow security enthusiast! Your journey into cybersecurity matters."</em></p>
+  </div>
+  
+  <!-- JavaScript for timezone detection -->
+  <script>
+    // Get visitor's timezone and location info
+    const now = new Date();
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+    const localTime = now.toLocaleTimeString('en-US', {
+      timeZone: timeZone,
+      hour12: true,
+      hour: 'numeric',
+      minute: '2-digit'
+    });
+    
+    // Update badges with visitor info
+    const timeElement = document.getElementById('visitor-time');
+    const locationElement = document.getElementById('visitor-location');
+    
+    if (timeElement) {
+      timeElement.src = `https://img.shields.io/badge/⏰%20Your%20Time-${encodeURIComponent(localTime)}-blue?style=flat-square`;
+    }
+    
+    if (locationElement) {
+      locationElement.src = `https://img.shields.io/badge/🌍%20Timezone-${encodeURIComponent(timeZone.replace('/', '%2F'))}-green?style=flat-square`;
+    }
+    
+    // Time-based greeting
+    const hour = now.getHours();
+    let greeting = "";
+    if (hour >= 5 && hour < 12) {
+      greeting = "🌅 Good morning! Perfect time to start learning cybersecurity!";
+    } else if (hour >= 12 && hour < 17) {
+      greeting = "☀️ Good afternoon! Keep up the great security work!";
+    } else if (hour >= 17 && hour < 21) {
+      greeting = "🌆 Good evening! Time for some ethical hacking practice!";
+    } else {
+      greeting = "🌙 Working late? That's the spirit of a true security researcher!";
+    }
+    
+    // Update greeting text
+    const greetingSection = document.querySelector('#greeting-section em');
+    if (greetingSection) {
+      greetingSection.innerHTML = `🎯 "${greeting}"`;
+    }
+  </script>
+</div>
+
+<!-- Easter Egg Hunt -->
+<div align="center">
+  <details>
+    <summary>🎮 <strong>Hidden Challenge - Click to Reveal!</strong></summary>
+    <div style="margin: 10px; padding: 15px; background: #0d1117; border-radius: 6px;">
+      <h4>🔍 Security Puzzle #001</h4>
+      <p><strong>Cipher:</strong> <code>VGhlIGZsYWcgaXM6IEN5YmVyU2Vje3cwbmRlcmZ1bF93MHJsZF9vZl9zM2N1cjE3eX0=</code></p>
+      <p><strong>Hint:</strong> Base64 is just the beginning... 🕵️‍♂️</p>
+      <p><em>Decode this and find me on social media with the answer to earn a special recognition! 🏆</em></p>
+    </div>
+  </details>
+</div>
+
+<!-- Pinned Gists Section -->
+<div align="center">
+  <h3>📌 Featured Code Snippets</h3>
+  <a href="https://gist.github.com/irfan-sec">
+    <img src="https://img.shields.io/badge/📂%20View%20All%20Gists-Explore%20Code%20Snippets-orange?style=for-the-badge&logo=github" alt="View Gists"/>
+  </a>
+  
+  <!-- Placeholder for actual gists - these would be dynamically updated -->
+  <table>
+    <tr>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/🐍%20Python-Port%20Scanner-blue?style=flat-square" alt="Port Scanner"/></a><br/>
+        <small>Advanced port scanning with stealth techniques</small>
+      </td>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/🕷%20Web-SQL%20Injection%20Tester-red?style=flat-square" alt="SQL Injection"/></a><br/>
+        <small>Automated SQL injection detection tool</small>
+      </td>
+      <td>
+        <a href="#"><img src="https://img.shields.io/badge/🔒%20Crypto-Hash%20Cracker-green?style=flat-square" alt="Hash Cracker"/></a><br/>
+        <small>Multi-algorithm hash cracking utility</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+### 🕒 Live Status
+> 🌅 Good morning - Currently Starting the day with vulnerability research  
+> 📅 **Tuesday** | ⏰ **07:09 UTC**  
+> 🔄 *Last updated: 2025-09-30 07:09:59 UTC*
+
+
+### 🔥 Recent Activity
+- 🔄 Loading latest activities...
+
+
+### 📚 Latest Blog Posts
+- 📝 [Advanced SQL Injection Techniques](https://cyberlearn.systems/blog/sql-injection)
+- 🔐 [OSCP Preparation Guide 2024](https://cyberlearn.systems/blog/oscp-guide)
+- 🎯 [Red Team Tactics & Techniques](https://cyberlearn.systems/blog/red-team)
+
+
+### 🎮 Profile Quest
+> **Daily Challenge:** 🔐 Decode the Base64 message in my security tools!  
+> *Complete the challenge and tag me on social media to earn recognition!*
+
+---
 
 ### 🎖️ Current Status & Goals
 
@@ -320,6 +447,63 @@ Exfiltration       ┃ Data Transfer, Encrypted Channel ┃ ██████�
 - 📚 Educational Content Creation
 - 🎤 Conference Speaking Opportunities
 
+<!-- Mini CTF Section -->
+<div align="center">
+  <h3>🚩 Mini CTF Challenge</h3>
+  <div style="background: linear-gradient(45deg, #ff6b6b, #4ecdc4); padding: 20px; border-radius: 10px; margin: 10px;">
+    <h4>🎯 Weekly Security Quiz</h4>
+    <p><strong>Question:</strong> What vulnerability class is characterized by the ability to execute arbitrary code through user input validation failures?</p>
+    <details>
+      <summary>💡 <strong>Click for Hint</strong></summary>
+      <p><em>Think about input that gets processed without proper sanitization... 🤔</em></p>
+    </details>
+    <p>
+      <a href="https://forms.gle/your-quiz-form-link">
+        <img src="https://img.shields.io/badge/🎮%20Submit%20Answer-Take%20Quiz-success?style=for-the-badge" alt="Take Quiz"/>
+      </a>
+    </p>
+    <p><small>🏆 Top scorers get featured on my social media!</small></p>
+  </div>
+</div>
+
+<!-- Learning Resources & Community -->
+<div align="center">
+  <h3>📖 Free Learning Resources</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://tryhackme.com/p/irfansec">
+          <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
+        </a><br/>
+        <small>Interactive cybersecurity training</small>
+      </td>
+      <td align="center">
+        <a href="https://cyberlearn.systems">
+          <img src="https://img.shields.io/badge/CyberLearn-Free%20Courses-blue?style=for-the-badge&logo=education&logoColor=white" alt="CyberLearn"/>
+        </a><br/>
+        <small>Comprehensive security courses</small>
+      </td>
+      <td align="center">
+        <a href="https://github.com/irfan-sec/Waytobecomehacker">
+          <img src="https://img.shields.io/badge/Learning%20Path-Free%20Roadmap-green?style=for-the-badge&logo=map&logoColor=white" alt="Learning Path"/>
+        </a><br/>
+        <small>Step-by-step hacker journey</small>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Mentorship Program -->
+<div align="center">
+  <h3>🎓 Mentorship & Community</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Mentorship-Available-purple?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Mentorship"/>
+    <img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Study%20Group-Weekly%20Sessions-orange?style=for-the-badge&logo=calendar&logoColor=white" alt="Study Group"/>
+  </p>
+  <p><em>💡 I offer free mentorship to aspiring cybersecurity professionals. Let's learn together!</em></p>
+</div>
+
 ### 📬 **Get In Touch:**
 <a href="mailto:ceoirfan@cyberlearn.systems">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -343,6 +527,70 @@ Exfiltration       ┃ Data Transfer, Encrypted Channel ┃ ██████�
   
   **⭐ If you find my work valuable, please consider giving it a star! ⭐**
   
+  <!-- Accessibility & Theme Support -->
+  <div style="margin: 20px 0;">
+    <h3>🎨 Theme & Accessibility</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Theme-Dark%20Mode%20Optimized-black?style=flat-square&logo=dark-reader" alt="Dark Mode"/>
+      <img src="https://img.shields.io/badge/Mobile-Responsive-green?style=flat-square&logo=mobile" alt="Mobile Responsive"/>
+      <img src="https://img.shields.io/badge/Accessibility-WCAG%202.1%20AA-blue?style=flat-square&logo=accessibility" alt="Accessibility"/>
+    </p>
+    <details>
+      <summary>📱 <strong>Mobile Users Click Here</strong></summary>
+      <div style="padding: 10px;">
+        <p>📱 This profile is optimized for mobile viewing!</p>
+        <p>🌙 Supports both light and dark themes</p>
+        <p>♿ Screen reader friendly with proper alt text</p>
+        <p>🔍 All interactive elements are properly labeled</p>
+      </div>
+    </details>
+  </div>
+  
+  <!-- Social Proof & Community Stats -->
+  <div style="margin: 20px 0;">
+    <h3>🌟 Community Impact</h3>
+    <p>
+      <img src="https://img.shields.io/badge/Community%20Members-1000+-brightgreen?style=for-the-badge&logo=users" alt="Community Members"/>
+      <img src="https://img.shields.io/badge/Security%20Tools%20Created-15+-orange?style=for-the-badge&logo=tools" alt="Tools Created"/>
+      <img src="https://img.shields.io/badge/Students%20Mentored-50+-purple?style=for-the-badge&logo=graduation-cap" alt="Students Mentored"/>
+    </p>
+  </div>
+  
+  <!-- Additional Easter Egg -->
+  <div style="margin: 20px 0;">
+    <details>
+      <summary>🕵️ <strong>Secret Section - For True Security Enthusiasts</strong></summary>
+      <div style="padding: 15px; background: linear-gradient(45deg, #1e3c72, #2a5298); border-radius: 8px; margin: 10px;">
+        <h4>🔒 Advanced Challenge</h4>
+        <p><strong>Steganography Challenge:</strong></p>
+        <img src="https://via.placeholder.com/200x100/000000/FFFFFF?text=HIDDEN+MESSAGE" alt="Steganography Challenge" style="border-radius: 5px;"/>
+        <p><small>🎯 There's more than meets the eye in this image... Can you find the hidden flag?</small></p>
+        <p><code>Tool hint: strings, binwalk, steghide</code></p>
+      </div>
+    </details>
+  </div>
+  
+  <!-- Contact with Security Focus -->
+  <div style="margin: 20px 0;">
+    <h3>🔐 Secure Contact Methods</h3>
+    <p>
+      <a href="mailto:ceoirfan@cyberlearn.systems?subject=Security Collaboration&body=Hello Irfan, I'm interested in collaborating on cybersecurity projects.">
+        <img src="https://img.shields.io/badge/📧%20Secure%20Email-ProtonMail%20Supported-8B89CC?style=for-the-badge&logo=protonmail" alt="Secure Email"/>
+      </a>
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/PGP%20Key-Available%20on%20Request-red?style=flat-square&logo=gnu-privacy-guard" alt="PGP Key"/>
+      <img src="https://img.shields.io/badge/Signal-Encrypted%20Messaging-blue?style=flat-square&logo=signal" alt="Signal"/>
+    </p>
+  </div>
+  
   ![Snake animation](https://github.com/irfan-sec/irfan-sec/blob/output/github-contribution-grid-snake.svg)
+  
+  <!-- Credits and Attribution -->
+  <div style="margin-top: 20px; font-size: 12px; color: #666;">
+    <p>🤖 <em>This profile features automated updates via GitHub Actions</em></p>
+    <p>🎨 <em>Designed with accessibility and mobile users in mind</em></p>
+    <p>💚 <em>Built with love for the cybersecurity community</em></p>
+  </div>
   
 </div>

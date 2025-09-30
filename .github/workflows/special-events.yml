@@ -1,0 +1,81 @@
+name: Special Events & Seasonal Updates
+
+on:
+  schedule:
+    # Check for special events daily at 12:00 UTC
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-seasonal-content:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Update seasonal content
+      run: |
+        python -c "
+        import datetime
+        import re
+        
+        # Read README
+        with open('README.md', 'r') as f:
+            content = f.read()
+        
+        now = datetime.datetime.now()
+        month = now.month
+        day = now.day
+        
+        # Seasonal badges and updates
+        seasonal_badge = ''
+        
+        # Hacktoberfest (October)
+        if month == 10:
+            seasonal_badge = '<img src=\"https://img.shields.io/badge/🎃%20Hacktoberfest-Active%20Participant-orange?style=for-the-badge&logo=hacktoberfest&logoColor=white\" alt=\"Hacktoberfest Active\" />'
+        
+        # Cybersecurity Awareness Month (October)
+        elif month == 10:
+            seasonal_badge = '<img src=\"https://img.shields.io/badge/🛡️%20CyberSec%20Awareness-Month-red?style=for-the-badge&logo=security&logoColor=white\" alt=\"Cybersecurity Awareness Month\" />'
+        
+        # New Year
+        elif month == 1 and day <= 7:
+            seasonal_badge = '<img src=\"https://img.shields.io/badge/🎊%20New%20Year-2024%20Goals-gold?style=for-the-badge&logo=calendar&logoColor=black\" alt=\"New Year 2024\" />'
+        
+        # Holiday Season
+        elif month == 12:
+            seasonal_badge = '<img src=\"https://img.shields.io/badge/🎄%20Holiday-Secure%20Coding-green?style=for-the-badge&logo=christmas&logoColor=white\" alt=\"Holiday Season\" />'
+        
+        # Add seasonal badge if there is one
+        if seasonal_badge:
+            # Find the collaboration badges section and add seasonal badge
+            pattern = r'(<img src=\"https://img\.shields\.io/badge/Mentoring-Available-purple\?style=for-the-badge&logo=graduation-cap&logoColor=white\" alt=\"Mentoring Available\" />)'
+            replacement = r'\1\n  ' + seasonal_badge
+            content = re.sub(pattern, replacement, content)
+        
+        # Write updated content
+        with open('README.md', 'w') as f:
+            f.write(content)
+        
+        print(f'✅ Seasonal content updated for {now.strftime(\"%B %Y\")}')
+        "
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No seasonal changes to commit"
+        else
+          git commit -m "🎉 Auto-update: Seasonal content refresh"
+          git push
+        fi

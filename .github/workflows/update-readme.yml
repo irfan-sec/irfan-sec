@@ -1,0 +1,70 @@
+name: Update Dynamic README
+
+on:
+  schedule:
+    # Run every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        pip install requests feedparser pytz
+
+    - name: Update README with dynamic content
+      run: python .github/scripts/update_readme.py
+
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto-update: Dynamic content refresh"
+          git push
+        fi
+
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Generate snake animation
+      uses: Platane/snk/svg-only@v3
+      with:
+        github_user_name: irfan-sec
+        outputs: |
+          dist/github-contribution-grid-snake.svg
+          dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+    - name: Push snake animation to output branch
+      uses: crazy-max/ghaction-github-pages@v3
+      with:
+        target_branch: output
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
