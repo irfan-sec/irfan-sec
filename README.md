@@ -48,7 +48,7 @@
 class CybersecurityExpert:
     def __init__(self):
         self.name = "Irfan Ali"
-        self.location = "Gilgit-Baltistan, Pakistan 🇵🇰"
+        self.location = "Gilgit-Baltistan"
         self.role = "Cybersecurity Specialist"
         self.expertise = [
             "Penetration Testing", "Ethical Hacking",
