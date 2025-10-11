@@ -75,7 +75,7 @@ print(f"Welcome to {irfan.name}'s profile! 🚀")
 - 🔴 **Currently Working On:** Advanced Red Team Tactics & Malware Analysis
 - 🎓 **Learning:** OSCP Preparation & Advanced Python for Security Automation
 - 🤝 **Collaborating:** Open-source security tools for the community
-- 🎯 **2024 Goals:** OSCP Certification, 100+ CTF Wins, Security Conference Speaker
+- 🎯 **2026 Goals:** OSCP Certification, 100+ CTF Wins, Security Conference Speaker
 - 📧 **Reach Me:** ceoirfan@cyberlearn.systems | [LinkedIn](https://www.linkedin.com/in/irfan-security/)
 
 ---
