@@ -211,7 +211,7 @@ graph TD
     D --> E
     
     E --> F[OSCP Certification]
-    E --> G[100+ CTF Wins]
+    E --> G[50+ CTF Wins]
     E --> H[Security Conference Speaker]
     E --> I[Advanced Malware Analysis]
     
@@ -228,7 +228,7 @@ graph TD
 ### 🎯 Certification Roadmap
 - ✅ **CompTIA Security+** *(In Progress)*
 - ✅ **ISC2** *(In Progress)*
-- 🎯 **OSCP** *(2026 Goal)*
+- 🎯 **OSCP** *(2025)*
 - 🎯 **CISSP** *(2027 Goal)*
 - 🎯 **CEH** *(2026 Goal)*
 
