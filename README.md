@@ -295,9 +295,9 @@ Exfiltration       ┃ Data Transfer, Encrypted Channel ┃ ██████�
 ### 🎯 CTF Statistics
 | Platform | Rank | Points | Machines/Challenges |
 |:---:|:---:|:---:|:---:|
-| **TryHackMe** | Top 10% | 15,000+ | 150+ |
+| **TryHackMe** | Top 10% | 1,500+ | 150+ |
 | **HackTheBox** | Hacker | 2,500+ | 75+ |
-| **PicoCTF** | Top 5% | 8,000+ | 200+ |
+| **PicoCTF** | Top 5% | 800+ | 200+ |
 | **OverTheWire** | Advanced | N/A | 25+ |
 
 ### 🏅 Competition Highlights
